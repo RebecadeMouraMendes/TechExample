@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Etec Exemplo</string>
+
+    <!-- Compose Article Screen -->
+    <string name="title_jetpack_compose_tutorial">Etec da Zona Leste</string>
+    <string name="compose_short_desc">Segundo ano - Desenvolvimento de Sistemas</string>
+</resources>
